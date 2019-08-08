@@ -35,7 +35,7 @@ void loop() {
 		analogWrite(rightPinINB, 0);
 
 		robotReady = false;
-		/*digitalWrite(13, 0);
+		digitalWrite(13, 0);
 		delay(1000);
 		digitalWrite(13, 1);
 		delay(1000);
